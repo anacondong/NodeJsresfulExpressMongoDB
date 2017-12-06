@@ -21,3 +21,5 @@ and
     .get(user.read_a_user)
     .put(user.update_a_user)
     .delete(user.delete_a_user);
+    
+    Credits: https://github.com/prabhatpankaj/mongouserrestapi.git
