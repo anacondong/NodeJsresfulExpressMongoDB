@@ -1,0 +1,15 @@
+{
+  "name": "resfulExpressMongoDB",
+  "version": "1.0.0",
+  "description": "\resfulExpressMongoDB",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.7"
+  }
+}
